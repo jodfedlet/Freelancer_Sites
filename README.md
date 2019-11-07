@@ -7,3 +7,5 @@ Repository containing sites for those who want to work as a freelancer
 2. - https://www.workana.com/signup
 
 3. - https://www.99freelas.com.br/
+
+4. - https://www.comunicafreelancer.com.br/
