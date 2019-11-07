@@ -9,3 +9,5 @@ Repository containing sites for those who want to work as a freelancer
 3. - https://www.99freelas.com.br/
 
 4. - https://www.comunicafreelancer.com.br/
+
+5. - https://www.getninjas.com.br/
